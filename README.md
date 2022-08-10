@@ -1,6 +1,6 @@
 # Colored-Markers
 
-<strong>Learn CSS colors by building a set of <a href="https://teoptl.github.io/CSS-Color-Markers">colored markers</a>.</strong>
+<strong>Learn CSS colors by building a set of <a href="https://teoptl.github.io/Colored-Markers">colored markers</a>.</strong>
 
 Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 
