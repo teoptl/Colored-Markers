@@ -1,4 +1,4 @@
-# CSS-Color-Markers
+# Colored-Markers
 
 <strong>Learn CSS colors by building a set of <a href="https://teoptl.github.io/CSS-Color-Markers">colored markers</a>.</strong>
 
